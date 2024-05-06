@@ -142,8 +142,8 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/1d2fd210-e31f-4545-87b2-76c15ceca309)
+![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/21a94524-0b06-4e8c-8f7a-6cc67f479849)
 
-![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/bff30ee5-5dc0-4fb2-a4ac-591b8e4da8dc)
 
 ![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/a0e48777-55f9-4d11-8d6b-f9b4a9adb40b)
 
