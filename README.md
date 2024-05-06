@@ -140,13 +140,11 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## OUTPUT
-![WhatsApp Image 2024-03-18 at 12 15 38 PM](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/2fd023a8-7ea7-4408-9cda-8986daba6d32)
+
 ![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/1d2fd210-e31f-4545-87b2-76c15ceca309)
 
-![WhatsApp Image 2024-03-18 at 12 15 38 PM (1)](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/e6cb1462-7239-41ba-b19c-46c3069f3153)
 ![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/bff30ee5-5dc0-4fb2-a4ac-591b8e4da8dc)
 
-![WhatsApp Image 2024-03-18 at 12 15 39 PM](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/faedc38f-3f9b-4896-b08d-2ce7971fb22e)
 ![image](https://github.com/kabilselvam/lifecyclemethods/assets/127846320/4cf04809-86e9-43b2-87fe-649c93d4e396)
 
 
